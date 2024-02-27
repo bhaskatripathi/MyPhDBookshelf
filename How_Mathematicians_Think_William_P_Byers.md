@@ -49,3 +49,12 @@ The book also explores the implications of this creative dimension of mathematic
 38.	Byers straightforwardly explains the issues and clarifies them.
 39.	Starting with Imre Lakatos’ 1976 Proofs and Refutations, some writers have been turning away from the search for a “foundation” for mathematics and instead, seeking to understand and clarify the actual practice of mathematics—what real mathematicians really do.
 
+## Audio Summary
+
+Listen to the audio summary by clicking [here](https://github.com/bhaskatripathi/MyPhDBookshelf/blob/main/audio/How_Mathematicians_Think_William_P_Byers.md.mp3).
+
+
+<audio controls>
+  <source src="https://<username>.github.io/<repository-name>/audio/How_Mathematicians_Think_William_P_Byers.md.mp3" type="audio/mpeg">
+</audio>
+
