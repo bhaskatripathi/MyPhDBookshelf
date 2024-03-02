@@ -3,7 +3,9 @@
 # URL 
 https://arxiv.org/pdf/2402.15892.pdf
 
-Recently, I came across this very interesting paper that presents a new kind of mathematical philosophy. It explores how we can use games to better understand statistics and decision-making, making complex ideas simpler and more connected. The paper introduces "statistical games" to unify two major statistical approaches, showing how decisions in uncertain situations can be thought of as part of a game. This innovative angle promises to change the way we approach problems in statistics, economics, and beyond.
+Recently, I came across this very interesting paper that presents a new kind of mathematical philosophy. This is one of the longest papers that I have ever read and seems to be more like a text book with complex mathematical formulations but I have tried to simplify to the best of my understanding and distill the key ideas in simpler terms for layman audience. While the paper is dense in parts, it puts forth a creative gaming paradigm for reimagining statistics on more philosophical and practical foundations. Personally, as an avid reader of mathematical perspectives, I found the concepts quite fascinating despite needing to digest significant mathematical intricacies. It appears to be an ambitious step toward formalizing statistical uncertainty in a fresh yet coherent way.
+
+It explores how we can use games to better understand statistics and decision-making, making complex ideas simpler and more connected. The paper introduces "statistical games" to unify two major statistical approaches, showing how decisions in uncertain situations can be thought of as part of a game. This innovative angle promises to change the way we approach problems in statistics, economics, and beyond.
 
 ## Summary
 
