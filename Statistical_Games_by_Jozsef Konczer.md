@@ -2,6 +2,8 @@
 # Statistical Games: A Playful Approach to Understanding Statistics and Decision-Making
 # URL 
 https://arxiv.org/pdf/2402.15892.pdf
+### Audio Version
+- You can listen to the audio version [here](https://github.com/bhaskatripathi/MyPhDBookshelf/raw/main/audio/Statistical_Games.mp3).
 
 Recently, I came across this very interesting paper that presents a new kind of mathematical philosophy. This is one of the longest papers that I have ever read and seems to be more like a text book with complex mathematical formulations but I have tried to simplify to the best of my understanding and distill the key ideas in simpler terms for layman audience. While the paper is dense in parts, it puts forth a creative gaming paradigm for reimagining statistics on more philosophical and practical foundations. Personally, as an avid reader of mathematical perspectives, I found the concepts quite fascinating despite needing to digest significant mathematical intricacies. It appears to be an ambitious step toward formalizing statistical uncertainty in a fresh yet coherent way.
 
